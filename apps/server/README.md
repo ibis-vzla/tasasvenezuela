@@ -3,14 +3,13 @@
 ## TODO
 
 - Db schemas
-  - [ ] Rates
   - [ ] RatesHistoric
 - Extractors
-  - [ ] BCV Rate
+  - [x] BCV Rate
   - [ ] Paralelo rate
   - [ ] Promedio rate
 - Rates cron
-  - [ ] BCV Rate
+  - [x] BCV Rate
   - [ ] Paralelo rate
   - [ ] Promedio rate
 - API Endpoints
