@@ -9,3 +9,5 @@ export const updateRatesCron = cron({
     await updateRates();
   },
 });
+
+updateRates();
